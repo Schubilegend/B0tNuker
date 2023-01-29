@@ -18,3 +18,5 @@ Just download the B0tNuker.exe file from [Releases](https://github.com/Schubileg
 Everything else should be self explaining. If you still have any issues just join our [discord](https://discord.gg/awVFvXheWt) and create a support ticket.
 
 ### THIS TOOL IS MADE FOR EDUCATIONAL PURPOSES ONLY.
+
+### If it looks corrupted update to Windows 11 or use the exe
