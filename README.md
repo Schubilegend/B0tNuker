@@ -14,5 +14,7 @@
 
 # Guide
 
-Just download the main.exe file from [Releases](https://github.com/Schubilegend/B0tNuker/releases) and run it.
+Just download the B0tNuker.exe file from [Releases](https://github.com/Schubilegend/B0tNuker/releases) and run it.
 Everything else should be self explaining. If you still have any issues just join our [discord](https://discord.gg/awVFvXheWt) and create a support ticket.
+
+### THIS TOOL IS MADE FOR EDUCATIONAL PURPOSES ONLY.
