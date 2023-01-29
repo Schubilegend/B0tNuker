@@ -20,7 +20,7 @@ Everything else should be self explaining. If you still have any issues just joi
 # How to use
 `pip install -r requirements.txt`
 
-`py main.py`
+`python3 main.py`
 
 ### THIS TOOL IS MADE FOR EDUCATIONAL PURPOSES ONLY.
 
