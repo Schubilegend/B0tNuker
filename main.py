@@ -1,10 +1,15 @@
 import datetime
 import time
+import colorama
 from colorama import Fore
 import requests
 import random
 
 ratelimit = 1
+
+colorama.init(autoreset=False)
+
+print(Fore.GREEN + "starting...")
 
 def check_token():
     check_token = requests.get("https://discord.com/api/v9/users/@me", headers={"Authorization": f"{TOKEN}"})
