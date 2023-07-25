@@ -15,7 +15,7 @@
 # Guide
 
 Just download the B0tNuker.exe file from [Releases](https://github.com/Schubilegend/B0tNuker/releases) and run it.
-Everything else should be self explaining. If you still have any issues just join our [discord](https://discord.gg/awVFvXheWt) and create a support ticket.
+Everything else should be self explaining. If you still have any issues just join our [discord](https://discord.gg/cQuh6rvKBC) and create a support ticket.
 
 # How to use
 `pip install -r requirements.txt`
