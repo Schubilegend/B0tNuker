@@ -1,8 +1,6 @@
 # B0tNuker
 ![alt text](https://r2.e-z.host/36e6f370-d26b-4fdf-a088-83e0c9a575e8/ukvdsvuo.png)
 
-## [Support Server](https://discord.gg/a7j2kJ9ktz)
-
 # Features
 
 - DM all Friends and open DMs
